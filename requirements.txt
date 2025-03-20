@@ -1,0 +1,7 @@
+Flask
+mysql-connector-python
+psycopg2>=2.9.7
+Flask==3.0.2
+gunicorn
+Werkzeug==3.0.1
+pyodbc==5.2.0
